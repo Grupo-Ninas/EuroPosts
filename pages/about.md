@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 Esta página consta de recordatorios de las visitas de Manuel Campero a los puntos turísticos o destacables de diferentes ciudades de Europa durante la primera mitad del siglo XX. En este sitio se pueden identificar postales de diferentes personajes, monumentos y lugares históricos que Campero adquirió durante sus visitas.
