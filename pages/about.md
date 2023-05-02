@@ -14,17 +14,6 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
 Esta página consta de recordatorios de las visitas de Manuel Campero a los puntos turísticos o destacables de diferentes ciudades de Europa durante la primera mitad del siglo XX. En este sitio se pueden identificar postales de diferentes personajes, monumentos y lugares históricos que Campero adquirió durante sus visitas.
 	Nuestro objetivo con este sitio es preservar estas postales y exponerlas ante entusiastas de la historia, investigadores, profesores y estudiantes en un formato digital. La página contiene un centenar de postales digitalizadas de Austria, Francia, Bélgica y Países Bajos, proporcionando datos acerca de su información geográfica, la fecha, características (color, medidas, tipo), tema de la postal y descripción de la misma. Aquí podrás buscar, navegar, ordenar, seleccionar temas, lugares y edificios más destacables de las ciudades europeas a inicios del siglo XX. 
 	Para realizar el proyecto, se digitalizaron las cien postales, se identificó su ubicación (localización geográfica), se ordenaron y nombraron colocándolas en carpetas, se enriquecieron con la descripción de datos y metadatos, identificando ubicación y fecha y realizando la transcripción de cada una de ellas. 
