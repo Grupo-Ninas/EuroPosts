@@ -1,7 +1,6 @@
 field,display_name,browse_link,external_link
-title,Título,
-creator,Creator,
-date,Fecha de Creación,
+creator,Creador,
+date,Fecha de creación,
 description,Descrición,
 subject,Temas,true
 location,Localización
