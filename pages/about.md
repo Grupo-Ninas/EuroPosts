@@ -23,4 +23,5 @@ Este proyecto es parte del curso de Humanidades Digitales de la Universidad Iber
 ## Ayúdanos en mejorar
 
 Si gustas colaborar en el desarrollo de este proyecto, entra a esta documentación https://docs.google.com/document/d/1gx6Wv2uZGpM8i8JzxIZ9Hf3lJyHw66WiNVRsZIiQu-w/edit?usp=sharing
+
 Contáctanos vía esta página: https://github.com/Grupo-Ninas/EuroPosts/issues/new
